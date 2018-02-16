@@ -1,4 +1,4 @@
-#Written by Sajjad - October 2017
+#Written by Sajjad
 #This script gets data in shape for MVPA analysis. SaxeLab folder structure is used.
 #We assume that the last two runs are theory of mind localizers, and the first 5 are the task
 
